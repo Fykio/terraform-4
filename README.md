@@ -2,6 +2,7 @@
 
 ## Scripts Layout
 
+```text
 modules/
   ├── igw/
   │    ├── main.tf
@@ -21,6 +22,7 @@ modules/
        └── variables.tf
 main.tf
 provider.tf
+```
 
 ## Permissions Policies
 
